@@ -19,7 +19,7 @@ public class ShellUtil {
             log.info("execute shell : {}, param : {}", shellDir + shellName, param);
             Process p = pb.start();
             try {
-                runningStatus = p.waitFor();
+                runningStatus = p.waitFor(); //
             } catch (InterruptedException e) {
                 log.error("execute shell error, {}", e);
                 return false;
