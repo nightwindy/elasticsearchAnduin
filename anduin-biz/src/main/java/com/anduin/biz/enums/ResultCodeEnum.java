@@ -1,8 +1,6 @@
 package com.anduin.biz.enums;
 
-/**
- * Created by hukaisheng on 16/1/14.
- */
+
 public enum ResultCodeEnum {
     USER_EXIST("4", "用户已经存在"),
     USER_NOT_EXIST("3", "用户不存在"),

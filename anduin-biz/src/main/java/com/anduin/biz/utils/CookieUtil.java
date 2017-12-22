@@ -6,11 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * 系统对Cookie的操作
- * 
- * @author weihsuai
- */
+
 public class CookieUtil {
 
 

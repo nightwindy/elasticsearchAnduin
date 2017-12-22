@@ -1,8 +1,6 @@
 package com.anduin.biz.enums;
 
-/**
- * Created by zhouchunjie on 15/10/8.
- */
+
 public enum SmsOperatorsEnum {
 
     LSM("LUO_SI_MAO", "螺丝帽"),
