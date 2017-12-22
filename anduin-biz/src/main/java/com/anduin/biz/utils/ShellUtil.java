@@ -5,9 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Created by suclogger on 2017/1/7.
- */
+
 @Slf4j
 public class ShellUtil {
 
