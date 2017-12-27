@@ -2,9 +2,7 @@ package com.anduin.api.enums;
 
 import lombok.Getter;
 
-/**
- * Created by hukaisheng on 16/6/30.
- */
+
 public enum IdFilterTypeEnum {
 
     eq(1,"等于"),
