@@ -4,7 +4,7 @@ package com.anduin.api.constant;
  * Created by windy on 2017/12/27.
  */
 public class Apiconstants {
-    public final static String COMPANY_INDEX_ALIAS = "company_source";
+    public final static String COMPANY_INDEX_ALIAS = "partner_source";
 
     public final static String GROUP_CAR_SOURCE_INDEX_ALIAS = "groupcar_source";
 

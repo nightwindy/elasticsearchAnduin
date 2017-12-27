@@ -15,4 +15,13 @@
 
     <context:annotation-config></context:annotation-config>
     <context:component-scan base-package="com.anduin.api" />
+    <bean id="elasticsearchHost" class="java.lang.String">
+        <constructor-arg value="127.0.0.1"/>
+    </bean>
+
+    <bean id="elasticsearchPort" class="java.lang.Integer">
+        <constructor-arg value="9300"/>
+    </bean>
+
+
 </beans>
